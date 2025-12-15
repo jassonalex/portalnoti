@@ -1,0 +1,8 @@
+{
+  "name": "CondoPortal SaaS",
+  "description": "A comprehensive Micro SaaS for condominium management, facilitating communication between residents and administration with a modern, responsive interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
